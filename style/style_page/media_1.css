@@ -1,0 +1,16 @@
+/* 1448px ~ 1847px */
+
+@media (min-width: 1448px) and (max-width: 1847px) {
+  .up {
+  	right:130px;
+  }
+
+  header {
+    padding: 0px 100px 0px 100px;
+  }
+
+  #body {
+    padding: 0px 100px 32px 100px;
+  }
+
+}

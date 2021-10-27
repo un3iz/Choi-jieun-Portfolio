@@ -1,0 +1,24 @@
+.main_container {
+  padding-bottom: 64px;
+}
+
+.contents_container {
+  display: grid;
+  grid-gap: 24px;
+}
+
+.text {
+  width: 500px;
+  line-height: 30px;
+}
+
+.text p {
+  white-space: pre-line;
+}
+
+.image_container > img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}

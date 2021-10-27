@@ -1,0 +1,33 @@
+/* 756px ~ 1131px */
+
+@media (min-width: 756px) and (max-width: 1131px) {
+  .up {
+  	right:80px;
+  }
+
+  .contents_container {
+    grid-gap: 16px;
+  }
+
+  header {
+    padding: 0px 70px 0px 70px;
+  }
+
+  #body {
+    padding: 0px 70px 32px 70px;
+  }
+
+  h1 {
+    font-size: 40px;
+    line-height: 56px;
+  }
+
+  h2 {
+    font-size: 20px;
+    line-height: 52px;
+  }
+
+  .title_container {
+    height: 300px;
+  }
+}

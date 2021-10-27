@@ -1,0 +1,64 @@
+
+.page1 {
+  background-color: #dce4ee;
+}
+
+.page2 {
+  background-color: var(--Base_Background);
+}
+
+.page3 {
+  background-color: var(--Base_Background);
+}
+
+.page3 {
+  background-color: var(--Base_Background);
+}
+
+.page4 {
+  background-color: #b8b6b8;
+}
+
+.page5 {
+  background-color: white;
+}
+
+.page6 {
+  background-color: #d2e3f1;
+}
+
+.page7 {
+  background-color: var(--Base_Background);
+}
+
+.page8 {
+  background-color: #faf6f5;
+}
+
+.page9 {
+  background-color: #e5eff5;
+}
+
+.page10 {
+  background-color: var(--Base_Background);
+}
+
+.page11 {
+  background-color: var(--Base_Background);
+}
+
+.page12 {
+  background-color: black;
+}
+
+.page12 {
+  color: white;
+}
+
+.page12 .container {
+  border-top: 1px solid white;
+}
+
+.page12 .project_name {
+  color: white;
+}

@@ -1,0 +1,58 @@
+/* ~ 755px */
+
+@media (max-width: 755px) {
+  .up {
+  	right:32px;
+  	bottom:56px;
+  }
+
+  .up img {
+  	width: 40px;
+  	height: auto;
+  }
+
+  .contents_container {
+    grid-gap: 8px;
+  }
+
+  header {
+    padding: 0px 24px 0px 24px;
+    height:40px;
+  }
+
+  header img {
+  	top: 12px;
+  	width: 80px;
+  }
+
+  header ul > li {
+  	font-size:14px;
+  }
+
+  body {
+    padding-top: 40px;
+  }
+
+  #body {
+    padding: 0px 24px 32px 24px;
+  }
+
+  h1 {
+    font-size: 35px;
+    line-height: 50px;
+  }
+
+  h2 {
+    font-size: 18px;
+    line-height: 40px;
+  }
+
+  .title_container {
+    height: 280px;
+  }
+
+  .text {
+    width: 450px;
+  }
+
+}

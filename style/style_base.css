@@ -1,0 +1,82 @@
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+
+:root {
+  /*
+  --Primary-Color : #FFDC14;
+  --Primary-Color-Point : #FFC700;
+  --Primary-Color_50 : #FFF087;
+  --Background_Gray : #FAFAFA;
+    */
+  --Gray_10 : #F0F0F0;
+  --Gray_20 : #E1E1E1;
+  --Gray_30 : #C8C8C8;
+  --Gray_50 : #828282;
+  --Gray_80 : #3C3C3C;
+  --Base_Background : #F5F4F0;
+  --Base_footer : #E1E0DD;
+  --Scrollbar : #B0ADA5;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+	margin:0;
+	padding:0px;
+	box-sizing: border-box;
+}
+
+body {
+  padding-top: 56px;
+  padding-bottom: 0px;
+  font-family:'NanumSquare', sans-serif;
+  font-size: 18px;
+  overflow: overlay;
+  word-break : keep-all;
+}
+
+::-webkit-scrollbar {
+  width: 17px;
+}
+
+::-webkit-scrollbar-thumb{
+  background: var(--Scrollbar);
+  border-radius: 17px;
+  background-clip: padding-box;
+  border: 6px solid transparent;
+}
+
+#body {
+  padding: 0px 300px 64px 300px;
+}
+
+a {
+  color: black;
+}
+
+.container {
+  padding-top: 48px;
+  margin-bottom: 48px;
+  border-top: 1px solid var(--Gray_50);
+}
+
+.up {
+	position:fixed;
+	right:330px;
+	bottom:72px;
+	z-index: 1;
+}
+
+.up span {
+	display: block;
+}
+
+.up img {
+	width: 30px;
+	height: auto;
+}
+
+.base_background {
+  background-color: var(--Base_Background);
+}
