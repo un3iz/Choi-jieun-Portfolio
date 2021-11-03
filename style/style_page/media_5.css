@@ -42,22 +42,22 @@
   }
 
   h1 {
-    font-size: 30px;
-    line-height: 42px;
+    font-size: 24px;
+    line-height: 35px;
   }
 
   h2 {
-    font-size: 16px;
-    line-height: 40px;
+    font-size: 14px;
+    line-height: 38px;
   }
 
   .title_container {
-    height: 280px;
+    height: 200px;
   }
 
   .text {
     width: 300px;
-    font-size: 16px;
-    line-height: 26px;
+    font-size: 14px;
+    line-height: 22px;
   }
 }
