@@ -53,14 +53,18 @@
     height: 400px;
   }
 
+  .thumbnail_wrapper p {
+    font-size: 14px;
+  }
+
   .thumbnail {
-    width: 295px;
-    height: 257px;
+    width: 293px;
+    height: 270px;
   }
 
   .thumbnail_hover {
-    width: 295px;
-    height: 257px;
+    width: 293px;
+    height: 270px;
   }
 
   .hide {
@@ -72,7 +76,7 @@
   }
 
   .skill_icon p {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .skill_icon > img {
@@ -80,7 +84,7 @@
   }
 
   .skill_icon {
-    padding: 8px 0px 20px 0px;
+    padding: 8px 0px 12px 0px;
   }
 
   .info_contents {
@@ -106,7 +110,12 @@
     line-height: 60px;
   }
 
+  h4 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
   .title_container {
-    height: 280px;
+    height: 200px;
   }
 }
