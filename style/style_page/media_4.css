@@ -1,6 +1,6 @@
-/* ~ 755px */
+/* 501px ~ 755px */
 
-@media (max-width: 755px) {
+@media (min-width: 501px) and (max-width: 755px) {
   .up {
   	right:32px;
   	bottom:56px;
