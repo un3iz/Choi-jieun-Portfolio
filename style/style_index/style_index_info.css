@@ -48,6 +48,8 @@
   display: inline-block;
   vertical-align : middle;
   padding-right: 16px;
+  width: auto;
+  height: 30px;
 }
 
 .hide {
