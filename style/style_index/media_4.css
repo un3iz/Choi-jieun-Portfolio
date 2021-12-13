@@ -47,7 +47,7 @@
 
   .thumbnail_wrapper {
     width: 452px;
-    height: 520px;
+    height: 505px;
   }
 
   .thumbnail {
@@ -78,12 +78,12 @@
   }
 
   h2 {
-    font-size: 32px;
+    font-size: 30px;
   }
 
   h1 {
-    font-size: 56px;
-    line-height: 80px;
+    font-size: 50px;
+    line-height: 78px;
   }
 
   .title_container {

@@ -91,4 +91,12 @@
   .push {
     height: 24px;
   }
+
+  .grid_image {
+    display: none;
+  }
+
+  #one_line {
+    display: block;
+  }
 }

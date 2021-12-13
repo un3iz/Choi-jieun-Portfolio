@@ -6,24 +6,24 @@
   gap: 0px;
 }*/
 
-h1 {
-  font-style: normal;
-  font-weight: 100;
-  font-size: 48px;
-  line-height: 64px;
-  letter-spacing: 0.2em;
-}
-
 h2 {
   font-style: normal;
   font-weight: 100;
-  font-size: 24px;
-  line-height: 60px;
+  font-size: 18px;
+  line-height: 48px;
+  letter-spacing: 0.2em;
+}
+
+h1 {
+  font-style: normal;
+  font-weight: 100;
+  font-size: 36px;
+  line-height: 50px;
   letter-spacing: 0.2em;
 }
 
 .title_container {
-  height: 350px;
+  height: 300px;
   display: table;
 }
 

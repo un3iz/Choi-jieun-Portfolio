@@ -18,16 +18,20 @@
   }
 
   h1 {
-    font-size: 40px;
-    line-height: 56px;
+    font-size: 30px;
+    line-height: 42px;
   }
 
   h2 {
-    font-size: 20px;
+    font-size: 16px;
     line-height: 52px;
   }
 
   .title_container {
     height: 300px;
+  }
+
+  .grid_image {
+    grid-gap: 16px;
   }
 }

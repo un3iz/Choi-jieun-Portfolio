@@ -22,3 +22,13 @@
   display: block;
   object-fit: contain;
 }
+
+.grid_image {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 24px;
+}
+
+#one_line {
+  display: none;
+}
