@@ -16,6 +16,11 @@
   white-space: pre-line;
 }
 
+.per {
+  opacity: 40%;
+  font-size: 14px;
+}
+
 .image_container > img {
   width: 100%;
   height: auto;

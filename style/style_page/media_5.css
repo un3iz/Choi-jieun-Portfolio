@@ -58,9 +58,8 @@
   .text {
     width: 300px;
     font-size: 14px;
-    line-height: 22px;
+    line-height: 26px;
   }
-
 
   #footer {
     height: 24px;
@@ -99,4 +98,5 @@
   #one_line {
     display: block;
   }
+
 }
